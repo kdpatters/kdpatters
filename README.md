@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Credit to [Ray Hennessy](https://unsplash.com/@rayhennessy) for my profile image.
+I love AI, robots, and security!
